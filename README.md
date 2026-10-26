@@ -23,5 +23,5 @@ You can join it with `minination.top`
 ├── Server:
 │   └── https://dsc.gg/blackpvp-tw
 └── Username:
-    └── miniblack0662#0
+    └── mini
 ```
