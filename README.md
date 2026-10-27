@@ -10,7 +10,7 @@ You can join it with `minination.top`
 │   └── DiscordJS
 ├── Skript (Minecraft)
 └── Java/
-    └── Bukkit API (Minecraft)
+     └── Bukkit API (Minecraft)
 ```
 ## Learning:
 ```
@@ -23,5 +23,5 @@ You can join it with `minination.top`
 ├── Server:
 │   └── https://dsc.gg/blackpvp-tw
 └── Username:
-    └── mini.jar
+     └── mini.jar
 ```
